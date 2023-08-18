@@ -55,8 +55,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="![image](https://github.com/tahirbashir754/tahirbashir754/assets/106302623/53d8189c-8ec9-49c5-a89f-18ce79e22045)
-"  />
+  <img height="200" src="https://imgs.search.brave.com/QH_X3kpXkXVzsemE4DaFcM6oGCLev8d0F5Su2C0UH2I/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9oYWNr/ZXJub29uLmltZ2l4/Lm5ldC9obi1pbWFn/ZXMvMSp6bTVOTGpk/aEdkM1ZWVEEydS14/RVBnLmdpZj93PTEy/MDAmcT03NSZhdXRv/PWZvcm1hdA.gif"  />
 </div>
 
 ###
